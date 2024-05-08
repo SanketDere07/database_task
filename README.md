@@ -11,5 +11,5 @@ Make sure you have the following installed:
 ### Installation
 
 1. Clone this repository:
-   git clone 
-   cd 
+   git clone https://github.com/SanketDere07/database_task/tree/main
+   cd https://github.com/SanketDere07/database_task/tree/main
